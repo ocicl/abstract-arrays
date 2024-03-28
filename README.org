@@ -4,6 +4,6 @@ A structure and some facilities for an abstract-array structure in common lisp
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/digikar99/abstract-arrays.git |
-| commit  | 4cb4137                                              |
+| commit  | e8ab222                                              |
 | systems | abstract-arrays                                      |
 |---------+------------------------------------------------------|
